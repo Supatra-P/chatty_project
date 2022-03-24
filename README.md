@@ -30,11 +30,14 @@ SignupScreen [sign in btn] -> SigninScreen.
 
 CURRENT WORK BOARD
 
+//////
+
 Update: 19 Mar
 
 NONG Finished
 - UI SignUp / In
 
+//////
 
 Update: 25 Mar
 
@@ -46,4 +49,6 @@ NHONG update...
 
 NHONG doing...
 - Profile screen
+
+//////
 
