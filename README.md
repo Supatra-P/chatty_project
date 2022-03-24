@@ -30,10 +30,15 @@ SignupScreen [sign in btn] -> SigninScreen.
 
 CURRENT WORK BOARD
 
-Uodate: 
-- UI SignUp / In NONG Finised
+Update: 19 Mar
+NONG Finished
+- UI SignUp / In
 
 Update: 25 Mar
-- Firebase in SignUp / In FIGHT doing...
-- Profile screen NHONG doing...
+FIGHT doing...
+- Firebase in SignUp / In
+NHONG update...
+- UI SignUp / In
+NHONG doing...
+- Profile screen
 
