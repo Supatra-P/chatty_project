@@ -49,14 +49,14 @@ NHONG doing...
 ////// Update: 26 Mar
 
 NONG update...
-- assets/images/hamMenu.png , send_rocket.png
+- add assets/images/hamMenu.png , send_rocket.png
 - pubspec.yaml
 - add android folder
 - profile_screens.dart
 - messege_screen.dart
 - signUp_screen.dart
-- modal/appUse.dart
-- sevices/auth.dart , database.dart
+- add modal/appUse.dart
+- add sevices/auth.dart , database.dart
 - main.dart
 
 FIGHT update...
