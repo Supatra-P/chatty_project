@@ -56,13 +56,19 @@ NHONG doing...
 Update: 26 Mar
 
 NONG update...
-- assets/images/
+- assets/images/hamMenu.png , send_rocket.png
 - pubspec.yaml
 - add android
 - profile_screens.dart
 - messege_screen.dart
 - signUp_screen.dart
+- modal folder
+- sevices folder
+- main.dart
 
 FIGHT update...
 - Firebase Search page
 - Firebase Sign Up
+
+FIGHT doing...
+- Firebase message_screen.dart
