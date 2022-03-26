@@ -49,7 +49,7 @@ NHONG doing...
 ////// Update: 26 Mar
 
 NONG update...
-- add assets/images/hamMenu.png , send_rocket.png
+- add assets/images/hamMenu.png , send_rocket.png ,\ assets/logo_chatty.png
 - pubspec.yaml
 - add android folder
 - profile_screens.dart
