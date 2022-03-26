@@ -52,3 +52,17 @@ NHONG doing...
 
 //////
 
+
+Update: 26 Mar
+
+NONG update...
+- assets/images/
+- pubspec.yaml
+- add android
+- profile_screens.dart
+- messege_screen.dart
+- signUp_screen.dart
+
+FIGHT update...
+- Firebase Search page
+- Firebase Sign Up
