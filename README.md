@@ -30,16 +30,12 @@ SignupScreen [sign in btn] -> SigninScreen.
 
 CURRENT WORK BOARD
 
-//////
-
-Update: 19 Mar
+////// Update: 19 Mar
 
 NONG Finished
 - UI SignUp / In
 
-//////
-
-Update: 25 Mar
+////// Update: 25 Mar
 
 FIGHT doing...
 - Firebase in SignUp / In
@@ -50,9 +46,7 @@ NHONG update...
 NHONG doing...
 - Profile screen
 
-//////
-
-Update: 26 Mar
+////// Update: 26 Mar
 
 NONG update...
 - assets/images/hamMenu.png , send_rocket.png
