@@ -58,17 +58,18 @@ Update: 26 Mar
 NONG update...
 - assets/images/hamMenu.png , send_rocket.png
 - pubspec.yaml
-- add android
+- add android folder
 - profile_screens.dart
 - messege_screen.dart
 - signUp_screen.dart
-- modal folder
-- sevices folder
+- modal/appUse.dart
+- sevices/auth.dart , database.dart
 - main.dart
 
 FIGHT update...
-- Firebase Search page
-- Firebase Sign Up
+- Firebase search bar in profile_screen.dart
+- Firebase signUp_screen.dart
 
 FIGHT doing...
 - Firebase message_screen.dart
+- Firebase signIn_screen.dart
