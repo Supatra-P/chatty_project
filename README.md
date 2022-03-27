@@ -68,3 +68,11 @@ FIGHT doing...
 - Firebase signIn_screen.dart
 
 //////
+
+Update: 28 Mar
+
+FIGHT x NONG
+
+FINISHESDDDDDDDD~~
+
+YAYYYAYAYYAYAYYAYYYYYY
