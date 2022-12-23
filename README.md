@@ -1,4 +1,4 @@
-# chatty_project
+# Chatty Project
 
 ![CT1](https://user-images.githubusercontent.com/78303835/209335934-d2197d36-5e3f-4a65-984c-559248f33176.png)
 
