@@ -1,4 +1,10 @@
-# chatty_projectอิอิ
+# chatty_project
+
+![CT1](https://user-images.githubusercontent.com/78303835/209335934-d2197d36-5e3f-4a65-984c-559248f33176.png)
+
+![CT2](https://user-images.githubusercontent.com/78303835/209335944-67fa87fe-e7fa-42e2-8775-81573e3080bd.png)
+
+<!--
 
 @ about global method or function blah blah blah
 
@@ -77,3 +83,5 @@ FINISHESDDDDDDDD~~
 https://drive.google.com/file/d/1FXCpbB_AxpV4s8BuGMV4JTCMOhvaw3Qa/view?usp=sharing
 
 YAYYYAYAYYAYAYYAYYYYYY
+
+-->
