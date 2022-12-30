@@ -8,7 +8,7 @@ Chatty is a chat mobile application that can communicate cross-platform between 
 <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
 <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
 
-### Tech stack
+### Demo preview
 
 ![CT1](https://user-images.githubusercontent.com/78303835/209335934-d2197d36-5e3f-4a65-984c-559248f33176.png)
 
